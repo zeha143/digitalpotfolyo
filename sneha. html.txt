@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>DATA</title>
+</head>
+<body bgcolor=lime background="BG.JPG">
+<pre>
+<h1><marquee direction=right><font color=red> <center>My
+Details</center></font> </h1></marupuee direction>
+<font size=16><font color=blue>
+Name : Raju R <br>
+Class: 3 BCA<br>
+Reg no: 02122J2322<br>
+College: AJK College of Arts and Science </font></font><br>
+</body>
+</html>
+
+
